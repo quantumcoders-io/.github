@@ -31,7 +31,7 @@ Nuestro objetivo es proporcionar un servicio integral y personalizado, asegurand
 - [@GermanCastro](https://github.com/patamimbre)
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![portadaLinkedin](https://github.com/quantumcoders-io/.github/assets/37000524/5032d971-3f41-4773-b94e-56da907a628b)
 
 
 ## Feedback
